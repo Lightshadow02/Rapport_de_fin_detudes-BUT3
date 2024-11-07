@@ -1,4 +1,4 @@
-# 🛡️ Mise en place d’une architecture réseau sécurisée pour entreprise 🛡️
+# 🛡️ Mise en place d’une architecture réseau sécurisée pour entreprise🛡️
 
 Ce projet a pour objectif de mettre en œuvre une infrastructure réseau sécurisée en entreprise, en utilisant des solutions open-source et économiques. Il inclut la création d'une DMZ à trois niveaux avec PFSense, la mise en place d'un VPN Wireguard, ainsi que le développement d'un logiciel de monitoring multi-site pour garantir une surveillance proactive des réseaux.
 
